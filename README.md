@@ -1,4 +1,5 @@
 ## Hey! Thanks for stopping by!!
+Check out my main portfolio here: [justinkra.us](http://justinkra.us)
 
 <!--
 **justinkraus/justinkraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
